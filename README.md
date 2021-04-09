@@ -1,9 +1,9 @@
-# 🚀 Template React Native ATTO - Abril 2021
+# 🚀 Template React Native - Abril 2021
 
 [![React Native](https://img.shields.io/badge/React%20Native-v0.63.4-green.svg)](https://facebook.github.io/react-native/)
 [![React Navigation V5](https://img.shields.io/badge/React%20Navigation-v5.8.10-blue.svg)](https://reactnavigation.org/)
 
-Template React Native é um ponto de partida para os projetos ATTO em React Native. Este projeta está configurado com redux, redux saga e redux persist. Também usa a ultima versão do react-navigation (v5)
+Template React Native é um ponto de partida para os projetos em React Native. Este projeta está configurado com redux, redux saga e redux persist. Também usa a ultima versão do react-navigation (v5)
 
 
 ## Features
