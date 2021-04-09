@@ -1,0 +1,6 @@
+module Pods_PlantupApp {
+  umbrella header "Pods-PlantupApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

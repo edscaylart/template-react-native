@@ -1,0 +1,9 @@
+{
+  "translation": {
+    "welcome": "Welcome, {{name}}",
+    "language": {
+      "pt-br": "Portuguese",
+      "en-us": "English"
+    }
+  }
+}
